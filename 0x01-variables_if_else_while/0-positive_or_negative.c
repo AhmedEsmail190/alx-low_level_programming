@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-#include < stdio.h >
+#include <stdio.h>
 /* betty style doc for function main goes there */
 /**
  * main checks if the random numer is negative or positive or zero then
