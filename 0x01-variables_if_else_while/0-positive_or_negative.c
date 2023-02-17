@@ -1,8 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-#include <stdio.h>
+#include < stdio.h >
 /* betty style doc for function main goes there */
+/**
+ * main checks if the random numer is negative or positive or zero then
+ * prints the result of the checking
+ * prints "is negative of positive or zeros and the number"
+ * Retunr : Always 0.
+ */
 int main(void)
 {
 	int n;
